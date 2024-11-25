@@ -1,4 +1,4 @@
-### Hi there 👋
+"👋 Hi there! I'm a passionate Front-End Developer crafting seamless, responsive, and user-friendly web experiences using modern technologies like HTML, CSS, JavaScript, and frameworks like React/Vue/Angular."
 
 <!--
 **DigitalRonnie/DigitalRonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
